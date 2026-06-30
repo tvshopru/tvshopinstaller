@@ -171,16 +171,6 @@
       "category": "Фильмы и сериалы"
     },
     {
-      "id": "ru.tiardev.kinotrend",
-      "name": "KinoTrend",
-      "description": "Каталог актуальных раздач новинок кино в высоком качестве для онлайн-просмотра через TorrServe.",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ru.tiardev.kinotrend.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/ru.tiardev.kinotrend.apk",
-      "version": "2.3.8",
-      "size": "3.8 MB",
-      "category": "Фильмы и сериалы"
-    },
-    {
       "id": "ru.vk.store.tv",
       "name": "RuStore",
       "description": "Официальный российский магазин приложений для телевизоров и умных устройств на платформе Android TV.",
