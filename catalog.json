@@ -5,7 +5,7 @@
       "name": "File Manager +",
       "description": "Приложение File Manager +",
       "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.alphainventor.filemanager.png",
-      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/100 File-Manager-Plus-v3.6.7-Premium.apk",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/com.alphainventor.filemanager.apk",
       "version": "3.6.7",
       "size": "22.1 MB",
       "category": "Все"
@@ -15,7 +15,7 @@
       "name": "Vimu Media Player",
       "description": "Приложение Vimu Media Player",
       "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/net.gtvbox.videoplayer.png",
-      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/103 Vimu Media Player 11.01.apk",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/net.gtvbox.videoplayer.apk",
       "version": "11.01",
       "size": "57.8 MB",
       "category": "Все"
@@ -25,7 +25,7 @@
       "name": "VK Video",
       "description": "Приложение VK Video",
       "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.vk.tv.png",
-      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/111 VK_Video_(AndroidTV)_[AS]_v.2.90(62175)(9.0-16.0)(arm7a).apk",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/com.vk.tv.apk",
       "version": "2.90",
       "size": "43.1 MB",
       "category": "Все"
@@ -35,7 +35,7 @@
       "name": "RUTUBE",
       "description": "Приложение RUTUBE",
       "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/ru.rutube.app.png",
-      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/112 RutubeTv_30.14.3 Mod.apk",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/ru.rutube.app.apk",
       "version": "30.14.3.TV-general",
       "size": "31.0 MB",
       "category": "Все"
@@ -45,7 +45,7 @@
       "name": "ByeByeDPI",
       "description": "Приложение ByeByeDPI",
       "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/io.github.romanvht.byedpi.png",
-      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/113 ByeByeDPI-v1.7.5-universal-release .apk",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/io.github.romanvht.byedpi.apk",
       "version": "1.7.5",
       "size": "3.1 MB",
       "category": "Все"
@@ -55,7 +55,7 @@
       "name": "YouTube",
       "description": "Приложение YouTube",
       "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.google.android.youtube.tv.png",
-      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/114 YouTube+7.05.301+(arm).apk",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/com.google.android.youtube.tv.apk",
       "version": "7.05.301",
       "size": "87.7 MB",
       "category": "Все"
@@ -65,7 +65,7 @@
       "name": "TV SHOP Installer",
       "description": "Приложение TV SHOP Installer",
       "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.tvshop.store.manager.png",
-      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/145 TV SHOP Installer.apk",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/com.tvshop.store.manager.apk",
       "version": "5.0",
       "size": "5.2 MB",
       "category": "Все"
@@ -75,9 +75,149 @@
       "name": "Polza IPTV",
       "description": "Приложение Polza IPTV",
       "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.polzafre.polzafre.png",
-      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/147 polza-update-Polza IPTV.apk",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/com.polzafre.polzafre.apk",
       "version": "1.0",
       "size": "19.7 MB",
+      "category": "Все"
+    },
+    {
+      "id": "com.ottplay.ottplay",
+      "name": "Televizo",
+      "description": "Приложение Televizo",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.ottplay.ottplay.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/com.ottplay.ottplay.apk",
+      "version": "1.9.4.0",
+      "size": "17.7 MB",
+      "category": "Все"
+    },
+    {
+      "id": "limehd.ru.lite",
+      "name": "Лайт HD TV",
+      "description": "Приложение Лайт HD TV",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/limehd.ru.lite.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/limehd.ru.lite.apk",
+      "version": "4.5.9",
+      "size": "39.5 MB",
+      "category": "Все"
+    },
+    {
+      "id": "com.drm_play.lite",
+      "name": "DRM-Play Lite",
+      "description": "Приложение DRM-Play Lite",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.drm_play.lite.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/com.drm_play.lite.apk",
+      "version": "1.56.2",
+      "size": "3.9 MB",
+      "category": "Все"
+    },
+    {
+      "id": "ar.tvplayer.tw",
+      "name": "TiviMate 2",
+      "description": "Приложение TiviMate 2",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/ar.tvplayer.tw.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/ar.tvplayer.tw.apk",
+      "version": "2.1.5",
+      "size": "9.6 MB",
+      "category": "Все"
+    },
+    {
+      "id": "ru.yourok.torrserve",
+      "name": "TorrServe MatriX",
+      "description": "Приложение TorrServe MatriX",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/ru.yourok.torrserve.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/ru.yourok.torrserve.apk",
+      "version": "MatriX.141.Client",
+      "size": "11.3 MB",
+      "category": "Все"
+    },
+    {
+      "id": "mobi.zona",
+      "name": "Zona",
+      "description": "Приложение Zona",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/mobi.zona.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/mobi.zona.apk",
+      "version": "3.0.62",
+      "size": "20.5 MB",
+      "category": "Все"
+    },
+    {
+      "id": "io.lift.app",
+      "name": "Lift",
+      "description": "Приложение Lift",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/io.lift.app.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/io.lift.app.apk",
+      "version": "0.2.42",
+      "size": "3.3 MB",
+      "category": "Все"
+    },
+    {
+      "id": "top.rootu.lampa",
+      "name": "LAMPA",
+      "description": "Приложение LAMPA",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/top.rootu.lampa.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/top.rootu.lampa.apk",
+      "version": "1.12.4",
+      "size": "11.2 MB",
+      "category": "Все"
+    },
+    {
+      "id": "top.rootu.prisma",
+      "name": "PRISMA",
+      "description": "Приложение PRISMA",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/top.rootu.prisma.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/top.rootu.prisma.apk",
+      "version": "0.8.4",
+      "size": "11.7 MB",
+      "category": "Все"
+    },
+    {
+      "id": "ru.yourok.num",
+      "name": "NUM",
+      "description": "Приложение NUM",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/ru.yourok.num.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/ru.yourok.num.apk",
+      "version": "1.0.150",
+      "size": "15.9 MB",
+      "category": "Все"
+    },
+    {
+      "id": "ru.tiardev.kinotrend",
+      "name": "KinoTrend",
+      "description": "Приложение KinoTrend",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/ru.tiardev.kinotrend.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/ru.tiardev.kinotrend.apk",
+      "version": "2.3.8",
+      "size": "3.8 MB",
+      "category": "Все"
+    },
+    {
+      "id": "ru.vk.store.tv",
+      "name": "RuStore",
+      "description": "Приложение RuStore",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/ru.vk.store.tv.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/ru.vk.store.tv.apk",
+      "version": "1.85.0.3",
+      "size": "24.5 MB",
+      "category": "Все"
+    },
+    {
+      "id": "com.suptv.app",
+      "name": "Техподдержка TV SHOP",
+      "description": "Приложение Техподдержка TV SHOP",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.suptv.app.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/com.suptv.app.apk",
+      "version": "1.0",
+      "size": "6.8 MB",
+      "category": "Все"
+    },
+    {
+      "id": "com.google.android.tv.remote.service",
+      "name": "Android TV Remote Service",
+      "description": "Приложение Android TV Remote Service",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.google.android.tv.remote.service.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/com.google.android.tv.remote.service.apk",
+      "version": "6.4.746386949",
+      "size": "4.1 MB",
       "category": "Все"
     }
   ],
