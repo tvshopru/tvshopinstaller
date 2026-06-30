@@ -1,16 +1,6 @@
 {
   "apps": [
     {
-      "id": "com.alphainventor.filemanager",
-      "name": "File Manager +",
-      "description": "Приложение File Manager +",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.alphainventor.filemanager.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.alphainventor.filemanager.apk",
-      "version": "3.6.7",
-      "size": "22.1 MB",
-      "category": "Все"
-    },
-    {
       "id": "net.gtvbox.videoplayer",
       "name": "Vimu Media Player",
       "description": "Приложение Vimu Media Player",
@@ -222,6 +212,12 @@
     }
   ],
   "categories": [
-    "Все"
+    "Все",
+    "IPTV Плееры",
+    "Фильмы и сериалы",
+    "Утилиты",
+    "Браузеры",
+    "Лаунчеры",
+    "Другое"
   ]
 }
