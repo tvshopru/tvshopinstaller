@@ -3,222 +3,222 @@
     {
       "id": "net.gtvbox.videoplayer",
       "name": "Vimu Media Player",
-      "description": "Приложение Vimu Media Player",
+      "description": "Продвинутый медиаплеер для Android TV. Воспроизводит файлы из локальной сети, UPnP/DLNA, SMB и внешних накопителей.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/net.gtvbox.videoplayer.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/net.gtvbox.videoplayer.apk",
       "version": "11.01",
       "size": "57.8 MB",
-      "category": "Все"
+      "category": "Утилиты"
     },
     {
       "id": "com.vk.tv",
       "name": "VK Video",
-      "description": "Приложение VK Video",
+      "description": "Официальный клиент видеоплатформы ВКонтакте для Smart TV и Android TV. Фильмы, сериалы, шоу и трансляции.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.vk.tv.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.vk.tv.apk",
       "version": "2.90",
       "size": "43.1 MB",
-      "category": "Все"
+      "category": "Фильмы и сериалы"
     },
     {
       "id": "ru.rutube.app",
       "name": "RUTUBE",
-      "description": "Приложение RUTUBE",
+      "description": "Официальное приложение видеохостинга RUTUBE для телевизоров и приставок на базе Android TV.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ru.rutube.app.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/ru.rutube.app.apk",
       "version": "30.14.3.TV-general",
       "size": "31.0 MB",
-      "category": "Все"
+      "category": "Фильмы и сериалы"
     },
     {
       "id": "io.github.romanvht.byedpi",
       "name": "ByeByeDPI",
-      "description": "Приложение ByeByeDPI",
+      "description": "Локальный VPN-сервис для обхода ограничений провайдеров, ускорения работы YouTube и других заблокированных ресурсов.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/io.github.romanvht.byedpi.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/io.github.romanvht.byedpi.apk",
       "version": "1.7.5",
       "size": "3.1 MB",
-      "category": "Все"
+      "category": "Утилиты"
     },
     {
       "id": "com.google.android.youtube.tv",
       "name": "YouTube",
-      "description": "Приложение YouTube",
+      "description": "Официальный клиент видеохостинга YouTube для платформы Android TV / Google TV.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.google.android.youtube.tv.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.google.android.youtube.tv.apk",
       "version": "7.05.301",
       "size": "87.7 MB",
-      "category": "Все"
+      "category": "Фильмы и сериалы"
     },
     {
       "id": "com.tvshop.store.manager",
       "name": "TV SHOP Installer",
-      "description": "Приложение TV SHOP Installer",
+      "description": "Официальный клиент-установщик каталога приложений TV SHOP для Android TV медиаплееров.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.tvshop.store.manager.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.tvshop.store.manager.apk",
       "version": "5.0",
       "size": "5.2 MB",
-      "category": "Все"
+      "category": "Утилиты"
     },
     {
       "id": "com.polzafre.polzafre",
       "name": "Polza IPTV",
-      "description": "Приложение Polza IPTV",
+      "description": "Плеер для удобного просмотра телеканалов и медиатеки через сервис Polza TV.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.polzafre.polzafre.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.polzafre.polzafre.apk",
       "version": "1.0",
       "size": "19.7 MB",
-      "category": "Все"
+      "category": "IPTV Плееры"
     },
     {
       "id": "com.ottplay.ottplay",
       "name": "Televizo",
-      "description": "Приложение Televizo",
+      "description": "Многофункциональный IPTV-плеер для воспроизведения плейлистов M3U, поддержки EPG и архивов передач.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.ottplay.ottplay.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.ottplay.ottplay.apk",
       "version": "1.9.4.0",
       "size": "17.7 MB",
-      "category": "Все"
+      "category": "IPTV Плееры"
     },
     {
       "id": "limehd.ru.lite",
       "name": "Лайт HD TV",
-      "description": "Приложение Лайт HD TV",
+      "description": "Приложение для онлайн-просмотра более 300 российских телеканалов в высоком качестве.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/limehd.ru.lite.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/limehd.ru.lite.apk",
       "version": "4.5.9",
       "size": "39.5 MB",
-      "category": "Все"
+      "category": "IPTV Плееры"
     },
     {
       "id": "com.drm_play.lite",
       "name": "DRM-Play Lite",
-      "description": "Приложение DRM-Play Lite",
+      "description": "Быстрый и легковесный плеер для просмотра IPTV плейлистов с поддержкой DRM-потоков.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.drm_play.lite.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.drm_play.lite.apk",
       "version": "1.56.2",
       "size": "3.9 MB",
-      "category": "Все"
+      "category": "IPTV Плееры"
     },
     {
       "id": "ar.tvplayer.tw",
       "name": "TiviMate 2",
-      "description": "Приложение TiviMate 2",
+      "description": "Один из лучших IPTV плееров для Android TV с красивым интерфейсом, поддержкой архивов и телепрограммы.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ar.tvplayer.tw.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/ar.tvplayer.tw.apk",
       "version": "2.1.5",
       "size": "9.6 MB",
-      "category": "Все"
+      "category": "IPTV Плееры"
     },
     {
       "id": "ru.yourok.torrserve",
       "name": "TorrServe MatriX",
-      "description": "Приложение TorrServe MatriX",
+      "description": "Утилита (клиент) для просмотра видео из торрентов в режиме онлайн на плеере без предварительной загрузки.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ru.yourok.torrserve.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/ru.yourok.torrserve.apk",
       "version": "MatriX.141.Client",
       "size": "11.3 MB",
-      "category": "Все"
+      "category": "Утилиты"
     },
     {
       "id": "mobi.zona",
       "name": "Zona",
-      "description": "Приложение Zona",
+      "description": "Популярный онлайн-кинотеатр с огромным каталогом фильмов, сериалов и возможностью выбора качества видео.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/mobi.zona.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/mobi.zona.apk",
       "version": "3.0.62",
       "size": "20.5 MB",
-      "category": "Все"
+      "category": "Фильмы и сериалы"
     },
     {
       "id": "io.lift.app",
       "name": "Lift",
-      "description": "Приложение Lift",
+      "description": "Онлайн кинотеатр",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/io.lift.app.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/io.lift.app.apk",
       "version": "0.2.42",
       "size": "3.3 MB",
-      "category": "Все"
+      "category": "Утилиты"
     },
     {
       "id": "top.rootu.lampa",
       "name": "LAMPA",
-      "description": "Приложение LAMPA",
+      "description": "Медиапортал для онлайн-просмотра фильмов и сериалов через плагины, торренты и встроенные парсеры.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/top.rootu.lampa.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/top.rootu.lampa.apk",
       "version": "1.12.4",
       "size": "11.2 MB",
-      "category": "Все"
+      "category": "Фильмы и сериалы"
     },
     {
       "id": "top.rootu.prisma",
       "name": "PRISMA",
-      "description": "Приложение PRISMA",
+      "description": "Онлайн-кинотеатр и медиа-каталог для просмотра фильмов и сериалов на телевизоре.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/top.rootu.prisma.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/top.rootu.prisma.apk",
       "version": "0.8.4",
       "size": "11.7 MB",
-      "category": "Все"
+      "category": "Фильмы и сериалы"
     },
     {
       "id": "ru.yourok.num",
       "name": "NUM",
-      "description": "Приложение NUM",
+      "description": "Торрент-трекер и каталог раздач для Android TV с интеграцией TorrServe и Vimu/MX Player.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ru.yourok.num.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/ru.yourok.num.apk",
       "version": "1.0.150",
       "size": "15.9 MB",
-      "category": "Все"
+      "category": "Фильмы и сериалы"
     },
     {
       "id": "ru.tiardev.kinotrend",
       "name": "KinoTrend",
-      "description": "Приложение KinoTrend",
+      "description": "Каталог актуальных раздач новинок кино в высоком качестве для онлайн-просмотра через TorrServe.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ru.tiardev.kinotrend.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/ru.tiardev.kinotrend.apk",
       "version": "2.3.8",
       "size": "3.8 MB",
-      "category": "Все"
+      "category": "Фильмы и сериалы"
     },
     {
       "id": "ru.vk.store.tv",
       "name": "RuStore",
-      "description": "Приложение RuStore",
+      "description": "Официальный российский магазин приложений для телевизоров и умных устройств на платформе Android TV.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ru.vk.store.tv.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/ru.vk.store.tv.apk",
       "version": "1.85.0.3",
       "size": "24.5 MB",
-      "category": "Все"
+      "category": "Утилиты"
     },
     {
       "id": "com.suptv.app",
       "name": "Техподдержка TV SHOP",
-      "description": "Приложение Техподдержка TV SHOP",
+      "description": "Сервисное приложение для связи с технической поддержкой и получения помощи по настройке устройств TV SHOP.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.suptv.app.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.suptv.app.apk",
       "version": "1.0",
       "size": "6.8 MB",
-      "category": "Все"
+      "category": "Утилиты"
     },
     {
       "id": "com.google.android.tv.remote.service",
       "name": "Android TV Remote Service",
-      "description": "Приложение Android TV Remote Service",
+      "description": "Системное приложение Android TV для сопряжения и удаленного управления приставкой с телефона.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.google.android.tv.remote.service.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.google.android.tv.remote.service.apk",
       "version": "6.4.746386949",
       "size": "4.1 MB",
-      "category": "Все"
+      "category": "Утилиты"
     },
     {
       "id": "com.alphainventor.filemanager",
       "name": "File Manager +",
-      "description": "Приложение File Manager +",
+      "description": "Удобный и продвинутый файловый менеджер для Android TV с поддержкой облачных дисков и локальной сети.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.alphainventor.filemanager.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.alphainventor.filemanager.apk",
       "version": "3.6.7",
       "size": "22.1 MB",
-      "category": "Все"
+      "category": "Утилиты"
     }
   ],
   "categories": [
