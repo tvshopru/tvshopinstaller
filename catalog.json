@@ -1,0 +1,87 @@
+{
+  "apps": [
+    {
+      "id": "com.alphainventor.filemanager",
+      "name": "File Manager +",
+      "description": "Приложение File Manager +",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.alphainventor.filemanager.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/100 File-Manager-Plus-v3.6.7-Premium.apk",
+      "version": "3.6.7",
+      "size": "22.1 MB",
+      "category": "Все"
+    },
+    {
+      "id": "net.gtvbox.videoplayer",
+      "name": "Vimu Media Player",
+      "description": "Приложение Vimu Media Player",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/net.gtvbox.videoplayer.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/103 Vimu Media Player 11.01.apk",
+      "version": "11.01",
+      "size": "57.8 MB",
+      "category": "Все"
+    },
+    {
+      "id": "com.vk.tv",
+      "name": "VK Video",
+      "description": "Приложение VK Video",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.vk.tv.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/111 VK_Video_(AndroidTV)_[AS]_v.2.90(62175)(9.0-16.0)(arm7a).apk",
+      "version": "2.90",
+      "size": "43.1 MB",
+      "category": "Все"
+    },
+    {
+      "id": "ru.rutube.app",
+      "name": "RUTUBE",
+      "description": "Приложение RUTUBE",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/ru.rutube.app.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/112 RutubeTv_30.14.3 Mod.apk",
+      "version": "30.14.3.TV-general",
+      "size": "31.0 MB",
+      "category": "Все"
+    },
+    {
+      "id": "io.github.romanvht.byedpi",
+      "name": "ByeByeDPI",
+      "description": "Приложение ByeByeDPI",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/io.github.romanvht.byedpi.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/113 ByeByeDPI-v1.7.5-universal-release .apk",
+      "version": "1.7.5",
+      "size": "3.1 MB",
+      "category": "Все"
+    },
+    {
+      "id": "com.google.android.youtube.tv",
+      "name": "YouTube",
+      "description": "Приложение YouTube",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.google.android.youtube.tv.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/114 YouTube+7.05.301+(arm).apk",
+      "version": "7.05.301",
+      "size": "87.7 MB",
+      "category": "Все"
+    },
+    {
+      "id": "com.tvshop.store.manager",
+      "name": "TV SHOP Installer",
+      "description": "Приложение TV SHOP Installer",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.tvshop.store.manager.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/145 TV SHOP Installer.apk",
+      "version": "5.0",
+      "size": "5.2 MB",
+      "category": "Все"
+    },
+    {
+      "id": "com.polzafre.polzafre",
+      "name": "Polza IPTV",
+      "description": "Приложение Polza IPTV",
+      "iconUrl": "https://github.com/tvshopru/tvshopinstaller/main/icons/com.polzafre.polzafre.png",
+      "downloadUrl": "https://github.com/tvshopru/tvshopinstaller/main/147 polza-update-Polza IPTV.apk",
+      "version": "1.0",
+      "size": "19.7 MB",
+      "category": "Все"
+    }
+  ],
+  "categories": [
+    "Все"
+  ]
+}
