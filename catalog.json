@@ -229,5 +229,8 @@
     "Браузеры",
     "Лаунчеры",
     "Другое"
+  ],
+  "banners": [
+    "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/banner.png"
   ]
 }
