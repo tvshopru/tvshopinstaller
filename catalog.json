@@ -1,16 +1,6 @@
 {
   "apps": [
     {
-      "id": "net.gtvbox.videoplayer",
-      "name": "Vimu Media Player",
-      "description": "Продвинутый медиаплеер для Android TV. Воспроизводит файлы из локальной сети, UPnP/DLNA, SMB и внешних накопителей.",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/net.gtvbox.videoplayer.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/net.gtvbox.videoplayer.apk",
-      "version": "11.01",
-      "size": "57.8 MB",
-      "category": "Утилиты"
-    },
-    {
       "id": "com.vk.tv",
       "name": "VK Video",
       "description": "Официальный клиент видеоплатформы ВКонтакте для Smart TV и Android TV. Фильмы, сериалы, шоу и трансляции.",
