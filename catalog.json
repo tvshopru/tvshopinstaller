@@ -209,6 +209,16 @@
       "version": "6.4.746386949",
       "size": "4.1 MB",
       "category": "Все"
+    },
+    {
+      "id": "com.alphainventor.filemanager",
+      "name": "File Manager +",
+      "description": "Приложение File Manager +",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.alphainventor.filemanager.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/com.alphainventor.filemanager.apk",
+      "version": "3.6.7",
+      "size": "22.1 MB",
+      "category": "Все"
     }
   ],
   "categories": [
