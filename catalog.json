@@ -61,11 +61,11 @@
       "category": "IPTV Плееры"
     },
     {
-      "id": "com.ottplay.ottplay",
+      "id": "ar.tvplayer.tw",
       "name": "Televizo",
       "description": "Многофункциональный IPTV-плеер для воспроизведения плейлистов M3U, поддержки EPG и архивов передач.",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.ottplay.ottplay.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.ottplay.ottplay.apk",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ar.tvplayer.tw.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/ar.tvplayer.tw.apk",
       "version": "1.9.4.0 (350)",
       "size": "17.7 MB",
       "category": "IPTV Плееры"
@@ -91,11 +91,11 @@
       "category": "IPTV Плееры"
     },
     {
-      "id": "ar.tvplayer.tw",
+      "id": "ar.tvplayer.tv",
       "name": "TiviMate 2",
       "description": "Один из лучших IPTV плееров для Android TV с красивым интерфейсом, поддержкой архивов и телепрограммы.",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ar.tvplayer.tw.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/ar.tvplayer.tw.apk",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ar.tvplayer.tv.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/ar.tvplayer.tv.apk",
       "version": "2.1.5 (2151)",
       "size": "9.6 MB",
       "category": "IPTV Плееры"
