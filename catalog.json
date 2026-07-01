@@ -219,16 +219,6 @@
       "version": "2.3.8 (238)",
       "size": "3.8 MB",
       "category": "Фильмы и сериалы"
-    },
-    {
-      "id": "com.vipip.tvrg",
-      "name": "Telezavr Премиум ТВ vip",
-      "description": "",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.vipip.tvrg.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.vipip.tvrg.apk",
-      "version": " (1000)",
-      "size": "18.3 MB",
-      "category": "Фильмы и сериалы"
     }
   ],
   "categories": [
