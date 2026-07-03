@@ -41,26 +41,6 @@
       "category": "Фильмы и сериалы"
     },
     {
-      "id": "com.tvshop.store.manager",
-      "name": "TV SHOP Installer",
-      "description": "Официальный клиент-установщик каталога приложений TV SHOP для Android TV медиаплееров.",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.tvshop.store.manager.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.tvshop.store.manager.apk",
-      "version": "5.0 (5)",
-      "size": "5.2 MB",
-      "category": "Утилиты"
-    },
-    {
-      "id": "com.polzafre.polzafre",
-      "name": "Polza IPTV",
-      "description": "Плеер для удобного просмотра телеканалов и медиатеки через сервис Polza TV.",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.polzafre.polzafre.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.polzafre.polzafre.apk",
-      "version": "1.0 (35)",
-      "size": "19.7 MB",
-      "category": "IPTV Плееры"
-    },
-    {
       "id": "ar.tvplayer.tw",
       "name": "Televizo",
       "description": "Многофункциональный IPTV-плеер для воспроизведения плейлистов M3U, поддержки EPG и архивов передач.",
