@@ -1,6 +1,16 @@
 {
   "apps": [
     {
+      "id": "backup_televizo",
+      "name": "Бэкап Televizo",
+      "description": "Свежий файл настроек и плейлистов для Televizo от 21.07.2026",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/banners/televizo_icon.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/backups/televizo_2026-07-21.backup",
+      "version": "от 21.07.2026",
+      "size": "7.3 KB",
+      "category": "Бэкапы"
+    },
+    {
       "id": "com.vk.tv",
       "name": "VK Video",
       "description": "Официальный клиент видеоплатформы ВКонтакте для Smart TV и Android TV. Фильмы, сериалы, шоу и трансляции.",
