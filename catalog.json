@@ -199,6 +199,16 @@
       "version": "2.3.8 (238)",
       "size": "3.8 MB",
       "category": "Фильмы и сериалы"
+    },
+    {
+      "id": "televizo_backup",
+      "name": "Бэкап Televizo",
+      "description": "Свежий файл настроек и плейлистов для Televizo от 21.07.2026",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/banners/televizo_icon.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/backups/televizo_2026-07-21.backup",
+      "version": "от 21.07.2026",
+      "size": "7.1 KB",
+      "category": "Бэкапы"
     }
   ],
   "categories": [
@@ -208,7 +218,8 @@
     "Утилиты",
     "Браузеры",
     "Лаунчеры",
-    "Другое"
+    "Другое",
+    "Бэкапы"
   ],
   "banners": [
     "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/banners/banner.png"
