@@ -26,7 +26,7 @@
       "description": "Локальный VPN-сервис для обхода ограничений провайдеров, ускорения работы YouTube и других заблокированных ресурсов.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/io.github.romanvht.byedpi.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/io.github.romanvht.byedpi.apk",
-      "version": "1.7.5 (1750)",
+      "version": "1.7.6 (1760)",
       "size": "3.1 MB",
       "category": "Утилиты"
     },
@@ -42,12 +42,12 @@
     },
     {
       "id": "ar.tvplayer.tw",
-      "name": "Televizo",
+      "name": "TiviMate 2",
       "description": "Многофункциональный IPTV-плеер для воспроизведения плейлистов M3U, поддержки EPG и архивов передач.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ar.tvplayer.tw.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/ar.tvplayer.tw.apk",
-      "version": "1.9.4.0 (350)",
-      "size": "17.7 MB",
+      "version": "2.1.5 (2151)",
+      "size": "9.6 MB",
       "category": "IPTV Плееры"
     },
     {
@@ -96,8 +96,8 @@
       "description": "Популярный онлайн-кинотеатр с огромным каталогом фильмов, сериалов и возможностью выбора качества видео.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/mobi.zona.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/mobi.zona.apk",
-      "version": "3.0.62 (1062)",
-      "size": "20.5 MB",
+      "version": "3.0.65 (1065)",
+      "size": "20.8 MB",
       "category": "Фильмы и сериалы"
     },
     {
@@ -106,8 +106,8 @@
       "description": "Онлайн кинотеатр",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/io.lift.app.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/io.lift.app.apk",
-      "version": "0.2.42 (33)",
-      "size": "3.3 MB",
+      "version": "0.2.43 (34)",
+      "size": "4.8 MB",
       "category": "Фильмы и сериалы"
     },
     {
@@ -201,14 +201,34 @@
       "category": "Фильмы и сериалы"
     },
     {
-      "id": "backup_televizo",
-      "name": "Бэкап Televizo",
-      "description": "Свежий файл настроек и плейлистов для Televizo от 21.07.2026",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ar.tvplayer.tw.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/backups/televizo_2026-07-21.backup",
-      "version": "от 21.07.2026",
-      "size": "7.1 KB",
-      "category": "Бэкапы"
+      "id": "com.ottplay.ottplay",
+      "name": "Televizo",
+      "description": "",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.ottplay.ottplay.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.ottplay.ottplay.apk",
+      "version": "1.9.4.0 (350)",
+      "size": "17.7 MB",
+      "category": "IPTV Плееры"
+    },
+    {
+      "id": "com.tvshop.store.manager",
+      "name": "TV SHOP Installer",
+      "description": "",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.tvshop.store.manager.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.tvshop.store.manager.apk",
+      "version": "6.0 (6)",
+      "size": "5.5 MB",
+      "category": "Фильмы и сериалы"
+    },
+    {
+      "id": "com.polzafre.polzafre",
+      "name": "Polza IPTV",
+      "description": "",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.polzafre.polzafre.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.polzafre.polzafre.apk",
+      "version": "1.0 (35)",
+      "size": "19.7 MB",
+      "category": "IPTV Плееры"
     }
   ],
   "categories": [
@@ -218,8 +238,8 @@
     "Утилиты",
     "Браузеры",
     "Лаунчеры",
-    "Другое",
-    "Бэкапы"
+    "Бэкапы",
+    "Другое"
   ],
   "banners": [
     "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/banners/banner.png"
