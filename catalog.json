@@ -4,8 +4,8 @@
       "id": "backup_televizo",
       "name": "Бэкап Televizo",
       "description": "Свежий файл настроек и плейлистов для Televizo от 21.07.2026",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/banners/televizo_icon.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/backups/televizo_2026-07-21.backup",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/backup_televizo.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/backup_televizo.apk",
       "version": "от 21.07.2026",
       "size": "7.3 KB",
       "category": "Бэкапы"
@@ -78,16 +78,6 @@
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.drm_play.lite.apk",
       "version": "1.56.2 (36)",
       "size": "3.9 MB",
-      "category": "IPTV Плееры"
-    },
-    {
-      "id": "ar.tvplayer.tv",
-      "name": "TiviMate 2",
-      "description": "Один из лучших IPTV плееров для Android TV с красивым интерфейсом, поддержкой архивов и телепрограммы.",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/ar.tvplayer.tv.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/ar.tvplayer.tv.apk",
-      "version": "2.1.5 (2151)",
-      "size": "9.6 MB",
       "category": "IPTV Плееры"
     },
     {
