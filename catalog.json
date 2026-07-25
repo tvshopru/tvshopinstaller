@@ -201,16 +201,6 @@
       "category": "IPTV Плееры"
     },
     {
-      "id": "com.tvshop.store.manager",
-      "name": "TV SHOP Installer",
-      "description": "",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.tvshop.store.manager.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.tvshop.store.manager.apk",
-      "version": "6.0 (6)",
-      "size": "5.5 MB",
-      "category": "Фильмы и сериалы"
-    },
-    {
       "id": "com.polzafre.polzafre",
       "name": "Polza IPTV",
       "description": "",
