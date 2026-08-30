@@ -86,8 +86,8 @@
       "description": "Популярный онлайн-кинотеатр с огромным каталогом фильмов, сериалов и возможностью выбора качества видео.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/mobi.zona.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/mobi.zona.apk",
-      "version": "3.0.65 (1065)",
-      "size": "20.8 MB",
+      "version": "3.0.66 (1066)",
+      "size": "20.9 MB",
       "category": "Фильмы и сериалы"
     },
     {
@@ -96,7 +96,7 @@
       "description": "Онлайн кинотеатр",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/io.lift.app.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/io.lift.app.apk",
-      "version": "0.2.43 (34)",
+      "version": "0.2.45 (36)",
       "size": "4.8 MB",
       "category": "Фильмы и сериалы"
     },
@@ -199,6 +199,36 @@
       "version": "1.0 (35)",
       "size": "19.7 MB",
       "category": "IPTV Плееры"
+    },
+    {
+      "id": "com.vipip.tvrg",
+      "name": "Telezavr Премиум ТВ vip",
+      "description": "",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.vipip.tvrg.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.vipip.tvrg.apk",
+      "version": " (1000)",
+      "size": "18.3 MB",
+      "category": "Фильмы и сериалы"
+    },
+    {
+      "id": "com.tvshop.store.manager",
+      "name": "TV SHOP Installer",
+      "description": "",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.tvshop.store.manager.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.tvshop.store.manager.apk",
+      "version": "8.0 (8)",
+      "size": "3.1 MB",
+      "category": "Фильмы и сериалы"
+    },
+    {
+      "id": "com.google.android.tv.remote.service",
+      "name": "Android TV Remote Service",
+      "description": "",
+      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.google.android.tv.remote.service.png",
+      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.google.android.tv.remote.service.apk",
+      "version": "6.4.746386949 (95855506)",
+      "size": "4.1 MB",
+      "category": "Фильмы и сериалы"
     }
   ],
   "categories": [
