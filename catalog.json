@@ -151,16 +151,6 @@
       "category": "Утилиты"
     },
     {
-      "id": "com.google.android.tv.remote.service",
-      "name": "Android TV Remote Service",
-      "description": "Системное приложение Android TV для сопряжения и удаленного управления приставкой с телефона.",
-      "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/com.google.android.tv.remote.service.png",
-      "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/com.google.android.tv.remote.service.apk",
-      "version": "6.4.746386949 (95855506)",
-      "size": "4.1 MB",
-      "category": "Утилиты"
-    },
-    {
       "id": "com.alphainventor.filemanager",
       "name": "File Manager +",
       "description": "Удобный и продвинутый файловый менеджер для Android TV с поддержкой облачных дисков и локальной сети.",
