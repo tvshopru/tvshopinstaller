@@ -52,12 +52,12 @@
     },
     {
       "id": "limehd.ru.lite",
-      "name": "Лайт HD TV",
+      "name": "Лайт - Цифровое ТВ",
       "description": "Приложение для онлайн-просмотра более 300 российских телеканалов в высоком качестве.",
       "iconUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/icons/limehd.ru.lite.png",
       "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/apks/limehd.ru.lite.apk",
-      "version": "4.5.9 (557)",
-      "size": "39.5 MB",
+      "version": "5.0.5 (627)",
+      "size": "49.5 MB",
       "category": "IPTV Плееры"
     },
     {
