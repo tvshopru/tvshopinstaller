@@ -1,5 +1,4 @@
-﻿{
+{
     "versionCode": 11,
-    "version": "9.2",
-    "downloadUrl": "https://gitlab.com/tvshop-group/tvshopinstaller/-/raw/main/installer/tvshopinstaller.apk"
+    "downloadUrl": "https://raw.githubusercontent.com/tvshopru/tvshopinstaller/main/installer/tvshopinstaller.apk"
 }
